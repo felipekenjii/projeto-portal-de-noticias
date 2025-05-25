@@ -22,7 +22,6 @@ Você pode visualizar o layout original do projeto no Figma clicando no link aba
 
 - HTML5
 - CSS3
-- CSS Grid Layout
 
 ---
 
